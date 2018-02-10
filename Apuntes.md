@@ -25,7 +25,7 @@ La anatomia de IA consta de 5 partes:
 **Nota:**
 Una inteligencia *Debil* no necesita implementar las 5, puede implementar una o varias, pero en el caso de la *Super* y *Fuerte* si es necesario.
 
-## Machine Learning (ML)
+## **Machine Learning (ML)**
 Serie de algoritmos que hacen que un sistema sea artificialmente inteligente. Tambien puede ser visto como, Es la manera de hacer que algo sea artificialmente inteligente.
 
 Los algoritmos se dividen en 2 partes:
@@ -35,3 +35,15 @@ Los algoritmos se dividen en 2 partes:
 - **Aprendizaje sin supervisión.** El algoritmo detecta patrones y agrupa la información con estos patrones. Aquí nosotros podemos darle características a los algoritmos y éstos agrupan todo mediante patrones relacionados con esa información. Se basa en la información que le doy para agrupar eso.
 
 **NOTA:** puedes ver como si la **Inteligencia Artificial** fuera un *carro* y **Machine Learning** la *mecanica automotriz (motor)*
+
+## **Probabilidad y Estadística**
+**Machine Learning** utiliza una serie de técnicas de **Probabilidad y Estadística** para predecir un valor basado en la información que le proveemos, es por esto que es muy importante que tengamos claro algunos conceptos.
+
+Conceptos:
+- **Media o Promedio:** La suma de las medidas dividida entre el número total de datos.
+    
+    ![](https://craneoprevilegiado.com/wp-content/uploads/2015/03/media-formula.jpg?raw=true)
+
+- **Moda:** Es el valor con mayor frecuencia en una distribución de datos.
+
+- **Mediana:** Es el valor que ocupa el lugar central de todos los datos cuando están agrupados de menor a mayor.
