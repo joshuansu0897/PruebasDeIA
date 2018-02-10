@@ -47,3 +47,11 @@ Conceptos:
 - **Moda:** Es el valor con mayor frecuencia en una distribución de datos.
 
 - **Mediana:** Es el valor que ocupa el lugar central de todos los datos cuando están agrupados de menor a mayor.
+
+- **Varianza:** Es una medida de dispersión definida como la esperanza del cuadrado de la desviación de dicha variable respecto a la media, o dicho de otra forma, es la media de los residuos al cuadrado.
+    
+    ![](https://i.imgur.com/V4Wz8XI.png?raw=true)
+
+- **Desviación Estándar:** Es la raíz cuadrada de la varianza de la variable.
+
+    ![](https://es.plusmaths.com/wp-content/uploads/sites/2/2015/09/formula-de-la-desviacion-estandar.jpg?raw=true)
